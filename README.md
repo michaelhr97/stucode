@@ -17,6 +17,6 @@
 * [Backend](https://github.com/michaelhr97/api.stucode)
 
 ## Estado del proyecto
-- | Quality gate | Bugs | Coverage | Lines of Code 
+Repo | Quality gate | Bugs | Coverage | Lines of Code 
 -- | -- | -- | -- | -- 
 Back | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=michaelhr97_api.stucode&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=michaelhr97_api.stucode) | [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=michaelhr97_api.stucode&metric=bugs)](https://sonarcloud.io/summary/new_code?id=michaelhr97_api.stucode) | [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=michaelhr97_api.stucode&metric=coverage)](https://sonarcloud.io/summary/new_code?id=michaelhr97_api.stucode) | [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=michaelhr97_api.stucode&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=michaelhr97_api.stucode) | 
